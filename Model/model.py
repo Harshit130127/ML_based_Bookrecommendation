@@ -22,7 +22,7 @@ import seaborn as sns
 
 
 
-df = pd.read_csv("dataset\\books.csv", on_bad_lines = 'skip')
+df = pd.read_csv("dataset\books.csv", on_bad_lines = 'skip')
 
 
 
